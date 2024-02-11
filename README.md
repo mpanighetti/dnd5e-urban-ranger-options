@@ -1,6 +1,6 @@
 # Urban Ranger Options
 
- A 5e homebrew supplement adding rules allowing urban rangers who navigate city streets and crowds with ease.
+A 5e homebrew supplement adding rules allowing urban rangers who navigate city streets and crowds with ease.
 
 ## Resources
  
