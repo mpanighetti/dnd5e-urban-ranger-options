@@ -31,10 +31,10 @@ When you reach certain levels in this class, you pick an additional spell of 1st
 | Ranger Level |Spells |
 |:-:|:-|
 | 3rd | _disguise self, grease, illusory script, silent image_ |
-| 5th | _alter self, arcane lock, darkness, enthrall, find vehicle 📟, hold person, knock, suggestion_ |
+| 5th | _alter self, arcane lock, darkness, enthrall, find vehicle[^📟], hold person, knock, suggestion_ |
 | 9th | _create food and water, fear, haste, hypnotic pattern, major image, sending, slow, tiny hut, tongues_ |
-| 13th | _arcane eye, compulsion, confusion, fabricate, private sanctum, protection from ballistics 📟, synchronicity_ 📟 |
-| 17th | _dominate person, commune with city 📟, geas, hold monster, legend lore, mislead, modify memory, passwall, seeming, shutdown_ 📟 |
+| 13th | _arcane eye, compulsion, confusion, fabricate, private sanctum, protection from ballistics[^📟], synchronicity_[^📟] |
+| 17th | _dominate person, commune with city[^📟], geas, hold monster, legend lore, mislead, modify memory, passwall, seeming, shutdown_[^📟] |
 
 When you gain a level in this class, you can choose one of the ranger spells you know and replace it with a spell from the City Dweller Spells table, which must be of a level for which you have spell slots.
 
@@ -93,3 +93,5 @@ While you are in your favored terrain and not incapacitated, you gain the follow
 - You have advantage on initiative rolls.
 - You are immune to the Surprised condition.
 - You can take an additional action on your first turn of combat. If you cast a spell using this action, you are not prevented from casting another leveled spell on this turn.
+
+[^📟]: Spells from _[Unearthed Arcana: Modern Magic](https://media.wizards.com/2015/downloads/dnd/UA_ModernMagic.pdf)_ require approval from the Dungeon Master to be made available to you.
