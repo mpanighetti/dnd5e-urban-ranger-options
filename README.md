@@ -12,7 +12,7 @@ A 5e homebrew supplement adding rules allowing urban rangers who navigate city s
 
 #### Ranger
 
-- [City Dweller](main.md#ranger-subclass-city-dweller)
+- [City Dweller](main.md#city-dweller)
 
 ## Credits
 
