@@ -4,7 +4,7 @@ The options presented below can be selected by any ranger using the Favored Enem
 
 ## Favored Enemy: City Denizens
 
-This option adds the citizenry of a specific city as one of the selectable favored enemy types in the ranger's Favored Enemy feature. With the Dungeon Master's consent, you can select the people of two cities in place of selecting two humanoid lineages as favored enemies, since two members of the same intelligent species do not generally have shared mannerisms or behaviors that a hunter could specialize in, whereas a city's denizens fall into identifiable rhythms and patterns that a people-watcher could readily pick up on.
+This option adds the citizenry of a specific city as one of the selectable favored enemy types in the ranger's Favored Enemy feature. With the Dungeon Master's consent, you can select the people of one city any time you would normally select a humanoid species as a favored enemy, since two members of the same intelligent species do not necessarily have shared mannerisms or behaviors that a hunter could specialize in, whereas a city's denizens fall into identifiable rhythms and patterns that a people-watcher could readily pick up on.
 
 The pace and flow of a life in any two cities are sufficiently different that people from each city would be considered separate favored enemies. This means that you can identify people who hail from your favored enemy city even if you find them in another location.
 
@@ -24,7 +24,7 @@ You have developed an innate talent to navigate the civilized world as easily as
 
 _3rd-level City Dweller feature_
 
-When you reach certain levels in this class, you pick an additional spell of 1st level or higher to learn from the City Dweller Spells table. Each spell counts as a ranger spell for you, but it doesn’t count against the number of ranger spells you know. Spells marked with a pager emoji 📟 are from _[Unearthed Arcana: Modern Magic](https://media.wizards.com/2015/downloads/dnd/UA_ModernMagic.pdf)_ and require approval from the Dungeon Master to be made available to you.
+When you reach certain levels in this class, you pick an additional spell of 1st level or higher to learn from the City Dweller Spells table. Each spell counts as a ranger spell for you, but it doesn’t count against the number of ranger spells you know.
 
 ##### City Dweller Spells
 
@@ -63,7 +63,7 @@ _3rd-level City Dweller feature_
 
 Your time spent living amongst the people of the civilized world has made you exceptionally talented at working with them — and against them. You gain proficiency in one of the following skills of your choice: Deception, Intimidation, or Persuasion. Additionally, whenever you make a Charisma check while interacting socially with a favored enemy, your proficiency bonus is doubled.
 
-You are also adept at anticipating the next moves of the city folk you know so well. You gain one city or one humanoid lineage of your choice as a favored enemy using the ranger's Favored Enemy feature and learn an associated language. Whenever you select additional favored enemies at later levels, you select an additional city or humanoid lineage and learn an additional associated language.
+You are also adept at anticipating the next moves of the city folk you know so well. You gain one city or one humanoid species of your choice as a favored enemy using the ranger's Favored Enemy feature and learn an associated language. Whenever you select additional favored enemies at later levels, you select an additional city or humanoid species and learn an additional associated language.
 
 #### Verticality
 
