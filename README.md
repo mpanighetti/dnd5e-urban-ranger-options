@@ -22,7 +22,7 @@ A 5e homebrew supplement adding rules allowing urban rangers who navigate city s
 
 ## Compatibility
 
-This content was written to be compatible with Dungeons & Dragons 5th Edition.
+This content was written to be compatible with Dungeons & Dragons 5th Edition. This document uses the term "species" in place of "race" where used in the _Systems Reference Document_.
 
 ## License
 
