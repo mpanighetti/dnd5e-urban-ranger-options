@@ -4,7 +4,15 @@ The options presented below can be selected by any ranger using the Favored Enem
 
 ## Optional Class Features
 
+You gain class features in the _Player’s Handbook_ when you reach certain levels in your class. This section offers additional features that you can gain as a ranger. Unlike the features in the _Player’s Handbook_, you don’t gain the features here automatically. Consulting with your Dungeon Master, you decide whether to gain a feature in this section if you meet the level requirement noted in the feature’s description. These features can be selected separately from one another; you can use some, all, or none of them.
+
+If you take a feature that replaces another feature, you gain no benefit from the replaced one and don’t qualify for anything in the game that requires it.
+
 ### Favored Enemy Options
+
+_1st-level ranger feature_
+
+When you choose a favored enemy, the following enemies are added to your list of options.
 
 #### [City Denizens](https://github.com/mpanighetti/dnd5e-classes/blob/main/ranger/options-favored-enemy.md#city-denizens)
 
@@ -13,6 +21,10 @@ This option adds the citizenry of a specific city as one of the selectable favor
 The pace and flow of a life in any two cities are sufficiently different that people from each city would be considered separate favored enemies. This means that you can identify people who hail from your favored enemy city even if you find them in another location.
 
 ### Natural Explorer Options
+
+_1st-level ranger feature_
+
+When you choose a favored terrain, the following terrains are added to your list of options.
 
 #### [Cities](https://github.com/mpanighetti/dnd5e-classes/blob/main/ranger/options-natural-explorer.md#cities)
 
