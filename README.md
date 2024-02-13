@@ -3,7 +3,7 @@
 A 5e homebrew supplement adding rules allowing urban rangers who navigate city streets and crowds with ease.
 
 ## Resources
- 
+
 ### Full Text
 
 - [Urban Ranger Options](main.md)
@@ -13,6 +13,12 @@ A 5e homebrew supplement adding rules allowing urban rangers who navigate city s
 #### Ranger
 
 - [City Dweller](main.md#city-dweller)
+
+##### Optional Class Features
+
+- [Favored Enemy Options](main.md#favored-enemy-options)
+- [Natural Explorer Options](main.md##natural-explorer-options)
+
 
 ## Credits
 
