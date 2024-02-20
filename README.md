@@ -6,7 +6,7 @@ A 5e homebrew supplement adding rules allowing urban rangers who navigate city s
 
 ### Full Text
 
-- [Urban Ranger Options](main.md)
+[Urban Ranger Options](main.md)
 
 ### Classes
 
