@@ -28,7 +28,7 @@ A 5e homebrew supplement adding rules allowing urban rangers who navigate city s
 
 ## Compatibility
 
-This content was written to be compatible with Dungeons & Dragons 5th Edition. This document uses the term "species" in place of "race" where used in the _Systems Reference Document_.
+This content was written to be compatible with Dungeons & Dragons 5th Edition.  This document uses "species" in place of "race" and "ancestry" or "variant" in place of "subrace" where used in the _Systems Reference Document_.
 
 ## License
 
@@ -38,6 +38,6 @@ Certain materials are included under fair use exemption of the U.S. Copyright La
 
 ## Third-Party Content References
 
-_[Systems Reference Document 5.1](https://dnd.wizards.com/resources/systems-reference-document)_ ("SRD 5.1") © 2016 Wizards of the Coast LLC. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
-
 _[Unearthed Arcana: Modern Magic](https://media.wizards.com/2015/downloads/dnd/UA_ModernMagic.pdf)_ © 2015 Wizards of the Coast LLC; Author Daniel Helmick.
+
+_[Systems Reference Document 5.1](https://dnd.wizards.com/resources/systems-reference-document)_ ("SRD 5.1") © 2016 Wizards of the Coast LLC. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
