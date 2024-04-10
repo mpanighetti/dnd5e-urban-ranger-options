@@ -19,7 +19,6 @@ A 5e homebrew supplement adding rules allowing urban rangers who navigate city s
 - [Favored Enemy Options](main.md#favored-enemy-options)
 - [Natural Explorer Options](main.md##natural-explorer-options)
 
-
 ## Credits
 
 ### Writing and Gameplay
@@ -28,7 +27,12 @@ A 5e homebrew supplement adding rules allowing urban rangers who navigate city s
 
 ## Compatibility
 
-This content was written to be compatible with Dungeons & Dragons 5th Edition.  This document uses "species" in place of "race" and "ancestry" or "variant" in place of "subrace" where used in the _Systems Reference Document_.
+This content was written to be compatible with Dungeons & Dragons 5th Edition. It makes the following modifications from the _Systems Reference Document_:
+
+- "Species" is used in place of "race" and "ancestry" or "variant" in place of "subrace".
+- This document uses new traits called "Condition Resistance" and "Condition Vulnerability". Resistance to a condition means that a creature has advantage on saving throws made to resist that condition, and vulnerability to a condition means that a creature has disadvantage on such saving throws. Condition resistances are listed alongside damage resistances under a "Resistances" grouping, and condition vulnerabilities are listed alongside damage vulnerabilities under a "Vulnerabilities" grouping.
+- Damage immunities are listed alongside condition immunities under an "Immunities" grouping.
+- Resistance, vulnerability, and immunity to Poison apply to both the damage type and the Poisoned condition.
 
 ## License
 

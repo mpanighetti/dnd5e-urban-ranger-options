@@ -108,8 +108,8 @@ _15th-level City Dweller feature_
 
 While you are in your favored terrain and not incapacitated, you gain the following benefits in combat:
 
-- You have advantage on initiative rolls.
-- You are immune to the Surprised condition.
+- You have Advantage on Initiative rolls.
+- You are Immune to the Surprised condition.
 - You can take an additional action on your first turn of combat. If you cast a spell using this action, you are not prevented from casting another leveled spell on this turn.
 
 [^📟]: Spells from _[Unearthed Arcana: Modern Magic](https://media.wizards.com/2015/downloads/dnd/UA_ModernMagic.pdf)_ require approval from the Dungeon Master to be made available to you.
