@@ -100,7 +100,7 @@ You have a preternatural ability to match pace with the hustle and bustle of bus
 - Your speed cannot be reduced by nonmagical means.
 - The crowd grants you half cover and is considered difficult terrain for creatures of your choice within 30 feet of you.
 - You can use your Hide in Plain Sight feature while concealed by the crowd. When the feature is used in this manner, hiding in the crowd only takes a Bonus Action (rather than 1 minute), you do not require camouflage materials, and you can move normally without revealing your location as long as you remain in the crowd.
-- As a reaction to another creature in the crowd attacking you or an ally, you can attempt to influence the crowd's movement to disrupt the attack. The attacker must succeed on a Dexterity Saving Throw against your Spell Save DC or fall prone, causing their attack to miss. If you are hidden in the crowd, the attacker has disadvantage on their Saving Throw.
+- As a reaction to another creature in the crowd attacking you or an ally, you can attempt to influence the crowd's movement to disrupt the attack. The attacker must succeed on a Dexterity Saving Throw against your Spell Save DC or fall Prone, causing their attack to miss. If you are hidden in the crowd, the attacker has disadvantage on their Saving Throw.
 
 #### Rhythm of the City
 
