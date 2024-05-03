@@ -1,23 +1,12 @@
 # Urban Ranger Options
 
-A 5e homebrew supplement adding rules allowing urban rangers who navigate city streets and crowds with ease.
+This 5e homebrew supplement adds rules for playing urban rangers who navigate city streets and crowds with ease, including optional class features for the Favored Enemy and Natural Explorer traits and a new City Dweller ranger subclass.
 
-## Resources
+## Table of Contents
 
-### Full Text
-
-[Urban Ranger Options](main.md)
-
-### Classes
-
-#### Ranger
-
-- [City Dweller](main.md#city-dweller)
-
-##### Optional Class Features
-
-- [Favored Enemy Options](main.md#favored-enemy-options)
-- [Natural Explorer Options](main.md##natural-explorer-options)
+- Chapter 1: [Optional Urban Ranger Class Features](ch-1-optional-urban-ranger-class-features.md)
+- Chapter 2: [Ranger Subclass: City Dweller](ch-2-ranger-subclass-city-dweller.md)
+- [License](LICENSE.md)
 
 ## Credits
 
