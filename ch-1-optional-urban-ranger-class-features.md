@@ -27,3 +27,8 @@ When you choose a favored terrain, the following terrains are added to your list
 #### [Cities](https://github.com/mpanighetti/dnd5e-classes/blob/main/ranger/options-natural-explorer.md#cities)
 
 This option adds cities as one of the selectable favored terrains in the ranger's Natural Explorer feature. This terrain includes all urban settlements of any size, from a small town to a sprawling metropolis.
+
+---
+
+| [Chapter 2: Ranger Subclass: City Dweller](ch-2-ranger-subclass-city-dweller.md) ➡️ |
+|-:|
