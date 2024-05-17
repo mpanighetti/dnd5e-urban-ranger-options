@@ -80,4 +80,9 @@ While you are in your favored terrain and not incapacitated, you gain the follow
 - You are Immune to the Surprised condition.
 - You can take an additional action on your first turn of combat. If you cast a spell using this action, you are not prevented from casting another leveled spell on this turn.
 
+---
+
+| ⬅️ [Chapter 1: Optional Urban Ranger Class Features](ch-1-optional-urban-ranger-class-features.md) |
+|:-|
+
 [^📟]: Spells from _[Unearthed Arcana: Modern Magic](https://media.wizards.com/2015/downloads/dnd/UA_ModernMagic.pdf)_ require approval from the Dungeon Master to be made available to you.
