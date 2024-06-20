@@ -8,7 +8,7 @@ If you take a feature that replaces another feature, you gain no benefit from th
 
 ### Favored Enemy Options
 
-_1st-level ranger feature_
+_1st-level Ranger feature_
 
 When you choose a favored enemy, the following enemies are added to your list of options.
 
@@ -20,7 +20,7 @@ The pace and flow of a life in any two cities are sufficiently different that pe
 
 ### Natural Explorer Options
 
-_1st-level ranger feature_
+_1st-level Ranger feature_
 
 When you choose a favored terrain, the following terrains are added to your list of options.
 

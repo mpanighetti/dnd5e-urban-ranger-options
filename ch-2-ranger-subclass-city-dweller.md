@@ -85,4 +85,4 @@ While you are in your favored terrain and not incapacitated, you gain the follow
 | ⬅️ [Chapter 1: Optional Urban Ranger Class Features](ch-1-optional-urban-ranger-class-features.md) |
 |:-|
 
-[^📟]: Spells from _[Unearthed Arcana: Modern Magic](https://media.wizards.com/2015/downloads/dnd/UA_ModernMagic.pdf)_ require approval from the Dungeon Master to be made available to you.
+[^📟]: Source: _[Unearthed Arcana: Modern Magic](https://media.wizards.com/2015/downloads/dnd/UA_ModernMagic.pdf)_
