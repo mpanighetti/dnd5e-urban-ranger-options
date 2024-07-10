@@ -16,11 +16,11 @@ When you reach certain levels in this class, you pick an additional spell of 1st
 
 | Ranger Level |Spells |
 |:-:|:-|
-| 3rd | _disguise self, grease, illusory script, silent image_ |
-| 5th | _alter self, arcane lock, darkness, enthrall, find vehicle[^📟], hold person, knock, suggestion_ |
-| 9th | _create food and water, fear, haste, hypnotic pattern, major image, sending, slow, tiny hut, tongues_ |
-| 13th | _arcane eye, compulsion, confusion, fabricate, private sanctum, protection from ballistics[^📟], synchronicity_[^📟] |
-| 17th | _dominate person, commune with city[^📟], geas, hold monster, legend lore, mislead, modify memory, passwall, seeming, shutdown_[^📟] |
+| 3rd | _grease, silent image_ |
+| 5th | _alter self, find vehicle[^📟], suggestion_ |
+| 9th | _hypnotic pattern, sending_ |
+| 13th | _confusion, fabricate, protection from ballistics[^📟], synchronicity_[^📟] |
+| 17th | _commune with city[^📟], legend lore, modify memory, shutdown_[^📟] |
 
 When you gain a level in this class, you can choose one of the ranger spells you know and replace it with a spell from the City Dweller Spells table, which must be of a level for which you have spell slots.
 
