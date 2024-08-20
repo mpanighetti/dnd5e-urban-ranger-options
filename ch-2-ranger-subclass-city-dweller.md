@@ -1,4 +1,4 @@
-# Chapter 2: Ranger Subclass: [City Dweller](https://github.com/mpanighetti/dnd5e-classes/blob/main/ranger/city-dweller.md)
+# Chapter 2: Ranger Subclass: [City Dweller](https://github.com/mpanighetti/dnd5e-classes/blob/main/srd/ranger/city-dweller.md)
 
 At 3rd level, a ranger gains the choice of a subclass. The following option is made available to you when making that choice: the City Dweller.
 
@@ -78,7 +78,7 @@ While you are in your favored terrain and not incapacitated, you gain the follow
 
 - You have Advantage on Initiative rolls.
 - You are Immune to the Surprised condition.
-- You can take an additional action on your first turn of combat. If you cast a spell using this action, you are not prevented from casting another leveled spell on this turn.
+- You can take an additional action on your first turn of combat. If you expend a spell slot to cast a spell using this action, you are not prevented from expending another spell slot to cast a spell on the same turn.
 
 ---
 
