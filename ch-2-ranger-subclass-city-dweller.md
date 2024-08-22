@@ -8,8 +8,6 @@ You have developed an innate talent to navigate the civilized world as easily as
 
 #### City Dweller Spells
 
-_3rd-level City Dweller feature_
-
 When you reach certain levels in this class, you pick an additional spell of 1st level or higher to learn from the City Dweller Spells table. Each spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
 
 ##### City Dweller Spells
@@ -25,8 +23,6 @@ When you reach certain levels in this class, you pick an additional spell of 1st
 When you gain a level in this class, you can choose one of the ranger spells you know and replace it with a spell from the City Dweller Spells table, which must be of a level for which you have spell slots.
 
 #### City Dweller Cantrips
-
-_3rd-level City Dweller feature_
 
 You learn the _friends_ and _message_ cantrips. These cantrips gain bolstered effects in certain social interactions:
 
@@ -45,23 +41,17 @@ You can cast a cantrip using these bolstered spell effects a number of times equ
 
 #### People Person
 
-_3rd-level City Dweller feature_
-
 Your time spent living amongst the people of the civilized world has made you exceptionally talented at working with them — and against them. You gain Proficiency in one of the following skills of your choice: Deception, Intimidation, or Persuasion. Additionally, whenever you make a Charisma check while interacting socially with a favored enemy, your Proficiency Bonus is doubled.
 
 You are also adept at anticipating the next moves of the city folk you know so well. You gain one city or one humanoid species of your choice as a favored enemy using the ranger's Favored Enemy feature and learn an associated language. Whenever you select additional favored enemies at later levels, you select an additional city or humanoid species and learn an additional associated language.
 
-#### Verticality
-
-_7th-level City Dweller feature_
+#### Level 7: Verticality
 
 You are as familiar with a city's rooftops as you are the surface streets. You gain a climbing speed equal to your normal movement speed, or if you already have a climbing speed, it is instead increased by 10 feet.
 
 Additionally, while you are in your favored terrain, as an action, you can jump up to twice your movement speed without spending movement. You can use this action a number of times equal to your Dexterity modifier (minimum 1), and you regain all uses after completing a Long Rest.
 
-#### Crowdsurfer
-
-_11th-level City Dweller feature_
+#### Level 11: Crowdsurfer
 
 You have a preternatural ability to match pace with the hustle and bustle of busy city life. While in a crowd of people, you gain the following benefits:
 
@@ -70,9 +60,7 @@ You have a preternatural ability to match pace with the hustle and bustle of bus
 - You can use your Hide in Plain Sight feature while concealed by the crowd. When the feature is used in this manner, hiding in the crowd only takes a Bonus Action (rather than 1 minute), you do not require camouflage materials, and you can move normally without revealing your location as long as you remain in the crowd.
 - As a reaction to another creature in the crowd attacking you or an ally, you can attempt to influence the crowd's movement to disrupt the attack. The attacker must succeed on a Dexterity Saving Throw against your Spell Save DC or fall Prone, causing their attack to miss. If you are hidden in the crowd, the attacker has disadvantage on their Saving Throw.
 
-#### Rhythm of the City
-
-_15th-level City Dweller feature_
+#### Level 15: Rhythm of the City
 
 While you are in your favored terrain and not incapacitated, you gain the following benefits in combat:
 
