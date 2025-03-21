@@ -16,12 +16,12 @@ This 5e homebrew supplement adds rules for playing urban rangers who navigate ci
 
 ## Compatibility
 
-This content was written to be compatible with Dungeons & Dragons 5th Edition. It makes the following modifications from _Systems Reference Document 5.1_:
+This work is compatible with Dungeons & Dragons 5th Edition. It makes the following modifications from _Systems Reference Document 5.1_:
 
 - To ensure compatibility with characters created using either _Systems Reference Document 5.1_ or _5.2_, base-level class and subclass features in this document do not include a level requirement, unless they have additional feature dependencies. You gain such features as soon as you select the corresponding class or subclass.
 - "Species" is used in place of "race". "Ancestry" or "variant" is used in place of "subrace".
-- This document uses new traits called **Condition Resistance** and **Condition Vulnerability**. Resistance to a condition means that a creature has Advantage on Saving Throws made to resist that condition, and vulnerability to a condition means that a creature has Disadvantage on such Saving Throws.
-- Damage and condition resistance, vulnerability, and immunity are now grouped together as **Resistances**, **Vulnerabilities**, and **Immunities** respectively.
+- This document uses new traits called **Condition Resistance** and **Condition Vulnerability**. Resistance to a condition means that a creature has Advantage on saving throws made to resist that condition, and vulnerability to a condition means that a creature has Disadvantage on such saving throws.
+- Damage and condition resistances, vulnerabilities, and immunities are grouped together in features and stat blocks as **Resistances**, **Vulnerabilities**, and **Immunities** respectively.
 - Resistance, vulnerability, and immunity to Poison apply to both the damage type and the Poisoned condition.
 
 ## License
