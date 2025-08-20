@@ -1,4 +1,4 @@
-# Chapter 2: Ranger Subclass: [City Dweller](https://github.com/mpanighetti/dnd5e-classes/blob/main/srd/ranger/city-dweller.md)
+# Chapter 2: Ranger Subclass: City Dweller
 
 At 3rd level, a ranger gains the choice of a subclass. The following option is made available to you when making that choice: the City Dweller.
 
